@@ -14,7 +14,7 @@
                 <div class="card">
                     <div class="card-body">
                         <h2 class="card-title text-center">Registro</h2>
-                        <form action="submit_registro" method="post">
+                        <form action="registrar.php" method="post">
                             <div class="mb-3">
                                 <label for="nombre" class="form-label">Nombre</label>
                                 <input type="text" class="form-control" id="nombre" name="nombre" placeholder="Nombre" required>
