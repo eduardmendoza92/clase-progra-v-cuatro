@@ -1,0 +1,16 @@
+{
+    "name": "xeros/clasecuatro",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Xeros\\Clasecuatro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eduardo Mendoza",
+            "email": "eduardfigueroa92@gmail.com"
+        }
+    ],
+    "require": {}
+}
